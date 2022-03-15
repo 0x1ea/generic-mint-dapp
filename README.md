@@ -1,5 +1,7 @@
 # Mint App
-Frontend React Interface for Generic Mint App.
+React interface for [Generic Mint Dapp](https://thirsty-ritchie-d84783.netlify.app/) on Rinkeby.
+
+
 
 ## Development
 To setup the development environment first clone the repo:
