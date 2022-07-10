@@ -1,5 +1,5 @@
 # Mint App
-React interface for [Generic Mint Dapp](https://genericfundraising.netlify.app/) on Rinkeby.
+React interface for [Generic Mint Dapp](https://genericmint.netlify.app/) on Rinkeby.
 
 
 
